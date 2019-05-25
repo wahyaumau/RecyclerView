@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerViewSubmission</string>
+    <string name="placeholder_item_name">Server</string>
+    <string name="placeholder_item_description">Alat Penyimpanan</string>
+    <string name="list">List View</string>
+    <string name="cardview">Card View</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+    <string name="item_image">Item Image</string>
+    <string name="price">Price</string>
+    <string name="item_detail_name">Item Detail Name</string>
+    <string name="item_detail_price">Item Detail Price</string>
+    <string name="item_detail_description">Item Detail Description</string>
+    <string name="hardware_type">Hardware Type</string>
+    <string name="item_detail_type">Item Detail Type</string>
+</resources>
